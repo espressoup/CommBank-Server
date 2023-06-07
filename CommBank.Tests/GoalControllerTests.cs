@@ -63,7 +63,7 @@ public class GoalControllerTests
     }
 
     [Fact]
-    public async void GetForUser()
+    public void GetForUser()
     {
         // Arrange
         
